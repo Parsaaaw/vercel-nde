@@ -1,7 +1,7 @@
 {
-  "name": "tesadssada-2",
-  "version": "1.2.0",
-  "description": "ettasdsadasdasdasdasdasdasdasdas",
+  "name": "vercel-xhttp-relay",
+  "version": "1.0.0",
+  "description": "Edge-runtime XHTTP relay for Xray/V2Ray on Vercel",
   "private": true,
   "license": "MIT"
 }
