@@ -63,7 +63,9 @@ const STRIP_HEADERS = new Set([
   "transfer-encoding",
   "upgrade",
   "forwarded",
-  "x-forwarded-host","x-forwarded-proto", "x-forwarded-port",
+  "x-forwarded-host",
+  "x-forwarded-proto", 
+  "x-forwarded-port",
 ]);
 
 export default async function handler(req) {
